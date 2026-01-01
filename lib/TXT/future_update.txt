@@ -1,0 +1,26 @@
+Folder in UI : Group in Code
+Next Updates of TaskNote.
+
+Some of the Future updates on specific screen
+
+Add features of Notes_Manager and then delete Notes_Manager.
+General
+    01. DecorColor more use
+    02. Schedule Note Reminder with Notification
+    03. Convert note to PDF and share
+    04. Save note and group even when the app goes in background.
+    05. Save when user press device back button twice.
+A. Note Screen
+    01. Add note directly to existing group
+B. Calender Screen
+C. Profile Screen
+    01. Profile Image
+    02. Password protected notes
+    03. Import and Export PDF
+D. Group Screen
+    01. Multiple group deletion 
+E. Auth Screen
+    01. Google sign in
+
+
+There might be more Future updates, which will be added later.

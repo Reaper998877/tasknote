@@ -1,0 +1,67 @@
+User Acc 1
+abc@gmail.coma
+1234567890
+
+User Acc 2
+rs28sarmatminuteman@gmail.com
+qwerty123456
+
+
+######################### Working as Expected #########################
+    General (Tested)
+        01. UI gradient 
+        02. App Theme 
+
+    A. Note Screen (Tested)
+        01. View Switching (Small grid, Large grid, List, Title)                        
+        02. Sort Switching (Created, Last Updated, DecorColor, Alphabetically)          
+        03. Note - Add, Fetch, Update, Delete                                           
+            (Single Note deletion with Confirmation dialog) 
+            (Delete - From AddEditNote, From NoteScreen)
+        04. Multiple note select and cancel - ListView, GridView                        
+        05. Multiple note deletion - ListView, GridView                                 
+        06. Hide Sort,View button and Searchbar, when any note is selected              
+        07. Hide Multi note select options, when any note is not selected               
+        08. Show selected notes count                                                   
+        09. Send/Share note                                                             
+        10. Searchbar                                                                   
+        11. Pin to status bar (Type of Reminder) [ No Duplicate/Same ]   
+
+    B. Calender Screen (Tested)
+        01. Calender Note - Add, Fetch, Update, Delete                   
+            (Single Note deletion with Confirmation dialog) 
+            (Delete - From AddEditNote, From CalenderScreen)
+        02. Sort on Last Updated                                         
+        03. Multiple note select and cancel - Only Listview              
+        04. Multiple note deletion - Only Listview                       
+        05. Show selected notes count                                    
+        06. Send/Share note                                              
+        07. Pin to status bar (Type of Reminder) [ No Duplicate/Same ]   
+    
+    C. Profile Screen (Tested)
+        01. Theme Switch (Light to Dark and vice versa)
+        02. Show total notes count
+        03. Show total folder count
+        04. Navigate to Login Screen
+        05. Notes and Groups - Backup to Firebase 
+        06. Notes and Groups - Download from Firebase when login successful
+        07. Fetches current user's notes and groups from Firebase when user does login 
+        08. LogOut with Confirmation Dialog
+        09. No duplicate groups and notes when fetched from Firebase.
+    
+    D. Group Screen (Tested)
+        01. Sort Switching                                                                      
+            (Created, Last Updated, DecorColor, Alphabetically) 
+            (Sorted via dart list methods)
+        02. Remove single note from group                                                       
+        03. In UI Folder, In code Group                                                         
+        04. Group - Add , Fetch, Edit info, Delete                                              
+            (Single Group deletion with Confirmation dialog, Also deleted notes inside it)
+            (Delete - From AddEditGroup, From GroupsScreen)
+            (Add - From NoteScreen, From GroupScreen)
+        05. Note inside group - Fetch, Add, Delete, Update                                      
+        06. Remove all notes and delete group                                                   
+    
+    E. Auth Screen (Tested)
+        01. Input Validation
+        02. Login/Sign Up via Email and password 

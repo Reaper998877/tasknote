@@ -1,0 +1,136 @@
+name: tasknote
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+
+  logger: ^2.6.2
+  # Provides structured and configurable logging for debugging and production diagnostics.
+
+  intl: ^0.20.2
+  # Supports internationalization, localization, and formatting of dates, numbers, and currencies.
+
+  shared_preferences: ^2.5.3
+  # Stores simple key-value data locally, such as user settings, flags, or selected language.
+
+  path_provider: ^2.1.3
+  # Provides access to commonly used device directories (documents, temp, app support).
+
+  isar_community: ^3.3.0
+  # High-performance local NoSQL database for offline-first data storage.
+
+  isar_community_flutter_libs: ^3.3.0
+  # Native binaries required to run Isar database on Flutter platforms.
+
+  flutter_colorpicker: ^1.1.0
+  # UI component that allows users to select colors within the app.
+
+  internet_connection_checker_plus: ^2.5.1
+  # Checks real internet connectivity (not just network availability).
+
+  font_awesome_flutter: ^10.12.0
+  # Provides scalable Font Awesome icons for rich and consistent UI design.
+
+  flutter_animate: ^4.5.0
+  # Adds simple, declarative animations to widgets with minimal boilerplate.
+
+  table_calendar: ^3.2.0
+  # Displays an interactive and customizable calendar widget.
+
+  permission_handler: ^12.0.1
+  # Manages runtime permissions (storage, camera, notifications, etc.) across platforms.
+
+  pdf: ^3.11.3
+  # Generates PDF documents programmatically within the app.
+
+  pdfx: ^2.9.2
+  # Renders and displays PDF files inside the Flutter application.
+
+  syncfusion_flutter_pdf: ^31.2.18
+  # Advanced PDF processing: reading, editing, merging, and extracting content.
+
+  share_plus: ^12.0.1
+  # Enables sharing content (text, files, links) via native share dialogs.
+
+  flutter_local_notifications: ^19.5.0
+  # Schedules and displays local notifications on Android and iOS.
+
+  timezone: ^0.10.1
+  # Handles time zone–aware date and time calculations, required for accurate notifications.
+
+  firebase_core: ^4.3.0
+  # Initializes and connects the app to Firebase services.
+
+  cloud_firestore: ^6.1.1
+  # Provides access to Firebase Firestore for cloud-based NoSQL data storage.
+
+  firebase_auth: ^6.1.3
+  # Handles user authentication (email/password, phone, social providers).
+
+  crypto: ^3.0.6
+  # Provides cryptographic utilities such as hashing and encryption.
+
+  uuid: ^4.5.2
+  # Generates unique identifiers for notes, records, or database entities.
+
+
+  # audioplayers: ^6.5.1
+  # auth_buttons: ^3.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  isar_community_generator: ^3.3.0   
+  # Generates Isar database schemas, adapters, and query code using annotations.
+
+  build_runner: ^2.4.6  
+  # Executes code generation tasks (e.g., Isar, JSON serialization).
+
+  flutter_lints: ^6.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/icon/
+    - assets/fonts/
+
+  #   - images/a_dot_ham.jpeg
+
+  fonts:
+    - family: average
+      fonts:
+        - asset: assets/fonts/Average-Regular.ttf
+
+    - family: poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+
+    - family: inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf    
+
+    - family: breeserif
+      fonts:
+        - asset: assets/fonts/BreeSerif-Regular.ttf
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+
