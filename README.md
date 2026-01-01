@@ -10,10 +10,11 @@ actionable items in a single, reliable workspace.
 ​
 Target users: TaskNote is intended for individuals who rely on notes as part of
 their personal or professional workflow, including:
-    ●​ Students managing study notes, reminders, and academic tasks
-    ●​ Professionals tracking work-related notes, to-dos, and meeting points
-    ●​ Entrepreneurs and freelancers organizing ideas, plans, and ongoing work
-    ●​ Anyone seeking a simple yet powerful tool to manage notes andtasks efficiently
+
+●​ Students managing study notes, reminders, and academic tasks
+●​ Professionals tracking work-related notes, to-dos, and meeting points
+●​ Entrepreneurs and freelancers organizing ideas, plans, and ongoing work
+●​ Anyone seeking a simple yet powerful tool to manage notes andtasks efficiently
 
 ## Main Features
 
