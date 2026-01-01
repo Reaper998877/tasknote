@@ -24,7 +24,6 @@ their personal or professional workflow, including:
 a) Modern UI & Themes
 
 ●​ Consistent gradient-based design
-
 ●​ Light & Dark mode support
 
 b) Notes Management
