@@ -11,61 +11,62 @@ actionable items in a single, reliable workspace.
 Target users: TaskNote is intended for individuals who rely on notes as part of
 their personal or professional workflow, including:
 
-●​ Students managing study notes, reminders, and academic tasks
-
-●​ Professionals tracking work-related notes, to-dos, and meeting points
-
-●​ Entrepreneurs and freelancers organizing ideas, plans, and ongoing work
-
-●​ Anyone seeking a simple yet powerful tool to manage notes andtasks efficiently
+  ●​ Students managing study notes, reminders, and academic tasks
+  
+  ●​ Professionals tracking work-related notes, to-dos, and meeting points
+  
+  ●​ Entrepreneurs and freelancers organizing ideas, plans, and ongoing work
+  
+  ●​ Anyone seeking a simple yet powerful tool to manage notes andtasks efficiently
 
 ## Main Features
 
 a) Modern UI & Themes
 
-●​ Consistent gradient-based design
-●​ Light & Dark mode support
+  ●​ Consistent gradient-based design
+
+  ●​ Light & Dark mode support
 
 b) Notes Management
 
-●​ Create, edit, delete, and organize notes
-
-●​ Multiple views: Grid, List, Title-only
-
-●​ Sorting by date, color, or alphabet
-
-●​ Search and share notes
-
-●​ Multi-select with bulk delete
-
-●​ Pin notes as status bar reminders (no duplicates)
+  ●​ Create, edit, delete, and organize notes
+  
+  ●​ Multiple views: Grid, List, Title-only
+  
+  ●​ Sorting by date, color, or alphabet
+  
+  ●​ Search and share notes
+  
+  ●​ Multi-select with bulk delete
+  
+  ●​ Pin notes as status bar reminders (no duplicates)
 
 c) Calendar Notes
 
-●​ Date-based note scheduling
+  ●​ Date-based note scheduling
+  
+  ●​ Sort, share, and bulk delete calendar notes
 
-●​ Sort, share, and bulk delete calendar notes
-
-●​ Reminder pinning support
+  ●​ Remi nder pinning support
 
 d) Folders (Groups)
 
-●​ Organize notes into folders
-
-●​ Folder-level sorting and management
-
-●​ Deleting a folder removes its notes
+  ●​ Organize notes into folders
+  
+  ●​ Folder-level sorting and management
+  
+  ●​ Deleting a folder removes its notes
 
 e) Cloud Sync (Firebase)
 
-●​ Secure backup and restore
-
-●​ Automatic sync on login
-
-●​ Duplicate-safe data handling
+  ●​ Secure backup and restore
+  
+  ●​ Automatic sync on login
+  
+  ●​ Duplicate-safe data handling
 
 f) Authentication & Profile
 
-●​ Secure login and signup
-
-●​ Theme preferences and usage stats
+  ●​ Secure login and signup
+  
+  ●​ Theme preferences and usage stats
